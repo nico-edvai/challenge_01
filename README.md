@@ -4,7 +4,12 @@ Desafío 01 EDVai vinculado a la copa mundial de fútbol Femenino 2019
 
 En esta oportunidad utilizaremos datos provenientes de https://github.com/cienciadedatos/datos-de-miercoles.
 
-Nuestro objetico es averiguar por fecha de mundial que país hizo más goles y mostrarlo en un dataframe.
+Nuestro objetivo es conocer por fecha de mundial que país hizo más goles, almacenarlo en un dataframe.
+
+|Año de la Copa Mundial       |País               |Cantidad de Goles |
+|:--------------|:-------------------|:-----------|
+|  |  |  |
+
 
 # Datos sobre Copas Mundiales de Fútbol Femenino
 
