@@ -19,7 +19,7 @@ Puedes utilizar el siguiente código para importar los datos a Google Colaborato
 
 ```
 import pandas as pd 
-resultados_cmff <- pd.read_csv("https://raw.githubusercontent.com/nico-edvai/challenge_01/main/resultados_cmff.csv")
+resultados_cmff = pd.read_csv("https://raw.githubusercontent.com/nico-edvai/challenge_01/main/resultados_cmff.csv")
 ```
 
 ## Diccionario de datos
