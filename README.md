@@ -4,7 +4,7 @@ Desafío 01 EDVai vinculado a la copa mundial de fútbol Femenino 2019
 
 En esta oportunidad utilizaremos datos provenientes de https://github.com/cienciadedatos/datos-de-miercoles.
 
-Nuestro objetivo es conocer por fecha de mundial que país hizo más goles y almacenarlo en un dataframe.
+## Nuestro objetivo es conocer por fecha de mundial que país hizo más goles y almacenarlo en un dataframe.
 
 |Año de la Copa Mundial       |País               |Cantidad de Goles |
 |:--------------|:-------------------|:-----------|
@@ -23,7 +23,7 @@ resultados_cmff = pd.read_csv("https://raw.githubusercontent.com/nico-edvai/chal
 print(resultados_cmff)
 ```
 
-## Diccionario de datos
+## Diccionario de datos 
 
 #### `resultados_cmff`
 
